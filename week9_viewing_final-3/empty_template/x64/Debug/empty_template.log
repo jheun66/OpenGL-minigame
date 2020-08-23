@@ -1,0 +1,59 @@
+﻿  Quaternion.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\math\quaternion.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  Matrix3X3.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\math\matrix3x3.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  Matrix2X2.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\math\matrix2x2.h(10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': 매크로 재정의
+  c:\my_directory\vcpkg\installed\x64-windows\include\glfw\glfw3.h(98): note: 'APIENTRY'의 이전 정의를 참조하십시오.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\gl2\gl2_material.h(43): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(130): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(181): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(182): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(187): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(188): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(189): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(190): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(225): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(226): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\main.cpp(267): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  GL_VIEW.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\gl2\gl_view.cpp(160): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GL2_World.cpp
+  GL2_ShaderProgram.cpp
+  GL2_Object.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\triangularsurface\statictriangularsurface.h(13): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  GL2_Material.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\gl2\gl2_material.h(43): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  GL2_Light.cpp
+  VertexOperations.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\triangularsurface\vertexoperations.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  StaticTriangularSurface.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\triangularsurface\statictriangularsurface.cpp(10): fatal error C1083: 포함 파일을 열 수 없습니다. 'ConventionalMacros.h': No such file or directory
+  StaticTriangleOperations.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\triangularsurface\statictriangleoperations.h(11): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  ObjFileReader.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\triangularsurface\objfilereader.h(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'DataStructure/Array1D.h': No such file or directory
+  MeshSimplification.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\triangularsurface\meshsimplification.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  StaticTriangle.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\statictriangle.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  Sphere3D.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\sphere3d.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  Sphere2D.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\sphere2d.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  Ray3D.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\ray3d.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  PLANE.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Box3D.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\box3d.h(10): fatal error C1083: 포함 파일을 열 수 없습니다. 'DataStructure/Vector3D.h': No such file or directory
+  Box2D.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\geometry\box2d.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  VectorND.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\datastructure\vectornd.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'GenericDefinitions.h': No such file or directory
+  Array2D.cpp
+c:\users\eun\desktop\week9_viewing_final-3\empty_template\datastructure\array2d.h(8): fatal error C1083: 포함 파일을 열 수 없습니다. 'ConventionalMacros.h': No such file or directory
+  코드를 생성하고 있습니다...
